@@ -9,6 +9,7 @@ Welcome to the **Navigatr Badge Framework** repository. This framework provides 
 - [Key Elements of Badge Design](#key-elements-of-badge-design)
 - [Creating Your Badge](#creating-your-badge)
 - [Quality Checks](#quality-checks)
+- [Version] (TBD)
 - [License](#license)
 
 ## About the Framework
