@@ -4,18 +4,18 @@ Welcome to the Navigatr Badge Framework repository.
 
 ### Table of Contents
 
-[What is a Digital Badge?](### What is a Digital Badge?)
-[Why is a Framework needed?](### Why is a Framework needed?)
-[About the Navigatr Badge Framework](### About the Navigatr Framework)
-[Licence](###Licence)
-[Elements of the Navigatr Badge Framework](###Elements of the Navigatr Badge Framework)
-[How to use the Framework](### How to use the Framework)
-[Attribution](### Attribution)
-[How to Attribute](### How to Attribute)
-[Examples](### Examples) 
-[Quality Assurance Service](### Quality Assurance Service) 
-[Contributors](###Contibutors)
-[Contibute to the Framework](###Contribute to the Framework)
+[What is a Digital Badge?](#what-is-a-digital-badge?)
+[Why is a Framework needed?](#why-is-a-framework-needed?)
+[About the Navigatr Badge Framework](#about-the-navigatr-framework)
+[Licence](#licence)
+[Elements of the Navigatr Badge Framework](#elements-of-the-navigatr-badge-framework)
+[How to use the Framework](#how-to-use-the-framework)
+[Attribution](#attribution)
+[How to Attribute](#how-to-attribute)
+[Examples](#examples) 
+[Quality Assurance Service](#quality-assurance-service) 
+[Contributors](#contibutors)
+[Contibute to the Framework](#contribute-to-the-framework)
 
 
 
@@ -59,7 +59,7 @@ Thousands of organisations use badges to recognise different types of achievemen
 
 ### Why is a Framework needed?
 
-With digital badges gaining traction around the world, and skills shortages growing, digital badges provide a way for skills to be recognised outside formalised qualifications.
+With digital badges gaining traction around the world and skills shortages growing, digital badges provide a way for skills to be recognised outside formalised qualifications.
 
   
 
@@ -139,7 +139,7 @@ This signifies if the badge has been quality assured by Navigatr. This could be 
 
 There are two ways to make use of the framework for your own badges.
 
-1.  Create an organisation account on Navigatr (start a 14 day free trial here)[ and use our AI badge Assistant.
+1.  Create an organisation account on Navigatr [start a 14 day free trial here](it's https://navigatr.app/register/plan/launch)and use our AI badge Assistant.
     
 
 Badge Assistant will write the badge information based on a prompt about the experience or achievement you’re looking to recognise.
@@ -181,28 +181,26 @@ The Digital Badge Framework © 2024 by Navigatr is licensed under CC BY-NC-ND 4.
   
 
 **Membership**
+[Teach](https://navigatr.app/badge/4971/founding-member-of-the-leeds-learning-alliance](https://navigatr.app/badge/4971/founding-member-of-the-leeds-learning-alliance)
 
-(Teach)[https://navigatr.app/badge/4971/founding-member-of-the-leeds-learning-alliance](https://navigatr.app/badge/4971/founding-member-of-the-leeds-learning-alliance)
-
-(Lead)[https://navigatr.app/badge/4979/leeds-learning-alliance-ambassador](https://navigatr.app/badge/4979/leeds-learning-alliance-ambassador)
+[Lead](https://navigatr.app/badge/4979/leeds-learning-alliance-ambassador](https://navigatr.app/badge/4979/leeds-learning-alliance-ambassador)
 
 
 **Certification**
 
-Apply: [https://navigatr.app/badge/4893/penetration-security-test-certified](https://navigatr.app/badge/4893/penetration-security-test-certified)
-
+[Apply](https://navigatr.app/badge/4893/penetration-security-test-certified)
 
 
 **Training**
 
-(Deepen)[https://navigatr.app/badge/4937/amrc-training-centre-staff-cpd-completion-badge](https://navigatr.app/badge/4937/amrc-training-centre-staff-cpd-completion-badge)
+[Deepen](https://navigatr.app/badge/4937/amrc-training-centre-staff-cpd-completion-badge)
 
-(Apply)[https://navigatr.app/badge/5072/software-development-practical-skills](https://navigatr.app/badge/5072/software-development-practical-skills)
+[Apply](https://navigatr.app/badge/5072/software-development-practical-skills](https://navigatr.app/badge/5072/software-development-practical-skills)
 
   
 **Informal Learning**
 
-(Explore)[https://navigatr.app/badge/4509/workplace-communication-explorer]
+[Explore](https://navigatr.app/badge/4509/workplace-communication-explorer)
 
   
   
