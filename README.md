@@ -237,8 +237,6 @@ The Navigatr Team; Mark Riches, Tim Riches, Katharine Courtney
 
 Andrew Flowers
 
-The ICoBC
-
 Anna Sheard
 
 Doug Belshaw
