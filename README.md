@@ -4,11 +4,11 @@ Welcome to the Navigatr Badge Framework repository.
 
 ### Table of Contents
 
-[What is a Digital Badge?](#what-is-a-digital-badge?)
+[What is a Digital Badge?](#what-is-a-digital-badge)
 
-[Why is a Framework needed?](#why-is-a-framework-needed?)
+[Why is a Framework needed?](#why-is-a-framework-needed)
 
-[About the Navigatr Badge Framework](#about-the-navigatr-framework)
+[About the Navigatr Badge Framework](#about-the-navigatr-badge-framework)
 
 [Licence](#licence)
 
@@ -68,7 +68,7 @@ Thousands of organisations use badges to recognise different types of achievemen
 
   
 
-### Why is a Framework needed?
+## Why is a Framework needed?
 
 With digital badges gaining traction around the world and skills shortages growing, digital badges provide a way for skills to be recognised outside formalised qualifications.
 
@@ -83,7 +83,7 @@ Our hope is that adoption of a framework that is evolving and collaborative will
   
   
 
-### About the Navigatr Badge Framework
+## About the Navigatr Badge Framework
 
 The Digital Badge Framework is a versatile and user-friendly set of design templates for creating digital badges.
 
@@ -93,13 +93,13 @@ Our templates are designed to suit various types of learning and achievements, e
 
   
 
-### Licence
+## Licence
 
 All templates are provided for free under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) licence. Find out how to attribute here.
 
   
 
-### Elements of the Navigatr Badge Framework
+## Elements of the Navigatr Badge Framework
 
 Our visual templates include the following fixed elements:
 
@@ -215,9 +215,9 @@ The Digital Badge Framework © 2024 by Navigatr is licensed under CC BY-NC-ND 4.
 
   
   
-### Quality Assurance Service
+## Quality Assurance Service
 
-If you’re looking for a more professional touch or need assistance with designing your digital badges our Quality Team can help to ensure your badges meet the highest standards from as little as £25 per badge, this can include: 
+If you’re looking for a more professional touch or need assistance with designing your digital badges our Quality Assurance Team and specialist partners can help to ensure your badges meet the highest standards, this can include: 
 
 -   Professional Design Assistance: Tailoring badges to fit your specific needs and branding.
     
