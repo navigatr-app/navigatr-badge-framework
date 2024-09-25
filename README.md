@@ -251,4 +251,4 @@ Stuart Martin
 
 ### Contribute to the Framework
 
-If you would like to contribute to the next version of the Framework or use it within your service offering please email [standard@navigatr.org](mailto:standard@navigatr.org).
+If you would like to contribute to the next version of the Framework or use it within your service offering please email [framework@navigatr.app](mailto:framework@navigatr.app).
