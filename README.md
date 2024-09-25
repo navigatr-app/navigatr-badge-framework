@@ -192,6 +192,7 @@ The Digital Badge Framework © 2024 by Navigatr is licensed under CC BY-NC-ND 4.
   
 
 **Membership**
+
 [Teach](https://navigatr.app/badge/4971/founding-member-of-the-leeds-learning-alliance)
 
 [Lead](https://navigatr.app/badge/4979/leeds-learning-alliance-ambassador)
