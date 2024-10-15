@@ -150,7 +150,7 @@ This signifies if the badge has been quality assured by Navigatr. This could be 
 
 There are two ways to make use of the framework for your own badges.
 
-1.  Create an organisation account on Navigatr [start a 14 day free trial here](https://navigatr.app/register/plan/launch)and use our AI badge Assistant.
+1.  Create an organisation account on Navigatr [start a 14 day free trial here](https://navigatr.app/register/plan/launch) and use our AI badge Assistant.
     
 
 Badge Assistant will write the badge information based on a prompt about the experience or achievement you’re looking to recognise.
